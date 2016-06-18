@@ -1,0 +1,9 @@
+Building CobraCoin
+
+See doc/readme-qt.rst for instructions on building CobraCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CobraCoin.
+
+See doc/build-*.txt for instructions on building cobracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CobraCoin.
